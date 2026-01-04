@@ -101,7 +101,7 @@ FinalSchoolScreen
 
 Cloner le projet :
 
-git clone https://github.com/ton-compte/lelo-profs.git
+git clone https://github.com/leloeduk/lelo-profs.git
 
 
 Installer les dépendances :
